@@ -49,6 +49,13 @@ button {
   font-style: bold;
 }
 .navbar a {
-  color: #fec0ca;
+  color: #fec0ca;s
   text-decoration: none;
+}
+img {
+  text-align: center;
+  display: block;
+  height: 100px;
+  width: auto;
+  margin: 0 auto;
 }
